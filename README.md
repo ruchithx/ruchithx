@@ -26,7 +26,7 @@ const ruchith = {
   tools: {
     frameworks: ["Spring Boot","React.js","Next.js","Angular","Node.js","Express.js"],
     databases: ["PostgreSQL","MySQL","MongoDB"],
-    devOps: ["Docker","AWS","Terraform","Ansible","Jenkins","GitHub Actions","Vercel"]
+    devOps: ["Docker","AWS","Terraform","Ansible","Jenkins","GitHub Actions","Vercel"],
     architecture: ["Microservices","REST APIs","Event-driven systems","CI/CD pipelines"]
   },
   projects: [
