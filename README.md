@@ -1,21 +1,21 @@
-
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://web.facebook.com/samarawicramagunasekara.ruchithnusara) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/ruchiii._.sg/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ruchith-samarawickrama-83098524a/) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Pug](https://img.shields.io/badge/Pug-FFF?style=for-the-badge&logo=pug&logoColor=A86454) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ruchithx&theme=merko&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ruchithx&theme=merko&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ruchithx&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ruchithx&theme=discord&no-frame=false&no-bg=true&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ruchithx&limit=5&theme=onestar&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=ruchithx&icon=5&color=5)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<img src="https://github.com/Mokkapps/mokkapps/blob/master/header.png" alt="Mokkapps GitHub README header image">
+<p><a href="https://www.x.com/mokkapps"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> <a href="https://www.linkedin.com/in/mokkapps"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://www.instagram.com/mokkapps/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a> <a href="https://www.youtube.com/@mokkapps"><img src="https://img.shields.io/badge/youtube-%2312100E.svg?&style=for-the-badge&logo=youtube&logoColor=white" height=25></a> <a href="https://medium.com/@MokkappsDev"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=25></a> <a href="https://dev.to/mokkapps"><img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" height=25></a></p>
+<h2>Check My Nuxt Starter Kit</h2>
+  <a href="https://nuxtstarterkit.com" target="_blank" rel="noreferrer nofollow">
+      <img src="https://mokkapps.twic.pics/nuxtstarterkit.com/promo.png" alt="Nuxt Starter Kit" height="500" >
+    </a>
+<h2>Latest Blog Posts</h2>
+  <ul>
+  <li><a href=https://mokkapps.de/vue-tips/infer-props-from-component-map target="_blank" rel="noreferrer nofollow">Vue Tip: Infer Props From Components in a Component Map</a></li><li><a href=https://mokkapps.de/blog/vue-state-management-composables-provide-inject-pinia target="_blank" rel="noreferrer nofollow">Navigating State Management in Vue: Composables, Provide/Inject, and Pinia</a></li><li><a href=https://mokkapps.de/blog/why-i-switched-back-from-vscode-to-intellij-idea target="_blank" rel="noreferrer nofollow">Why I Switched Back From VS Code to IntelliJ IDEA: A Developer's Journey</a></li><li><a href=https://mokkapps.de/blog/connecting-mysql-database-nuxt-drizzle-orm target="_blank" rel="noreferrer nofollow">Connecting a MySQL Database in Nuxt with Drizzle ORM</a></li><li><a href=https://mokkapps.de/vue-tips/accessing-pinia-store-in-nuxt-production-build target="_blank" rel="noreferrer nofollow">Nuxt Tip: Accessing Pinia Store in Production Build</a></li>
+  </ul>
+<p><a href="https://mokkapps.de/blog">➡️ More blog posts</a></p>
+<h2>Latest Newsletter Issues</h2>
+  <ul>
+    <li><a href=https://weekly-vue.news/issues/v2/205 target="_blank" rel="noreferrer nofollow">Weekly Vue News #241 - Final Newsletter Issue</a></li><li><a href=https://weekly-vue.news/issues/v2/204 target="_blank" rel="noreferrer nofollow">Weekly Vue News #240 - TypeScript at Scale, Pinia Colada v1, Vite Recap & effectScope Deep Dive</a></li><li><a href=https://weekly-vue.news/issues/v2/203 target="_blank" rel="noreferrer nofollow">Weekly Vue News #239 - Accessibility tips, Nuxt UI updates, and power tools for dev productivity</a></li><li><a href=https://weekly-vue.news/issues/v2/202 target="_blank" rel="noreferrer nofollow">Weekly Vue News #238 - Nuxt UI v4, business wins with Nuxt, and VueUse</a></li><li><a href=https://weekly-vue.news/issues/v2/201 target="_blank" rel="noreferrer nofollow">Weekly Vue News #237 - Top Nuxt Modules for 2026, TypeScript 6.0 Beta, and AI Content Tools</a></li>
+  </ul>
+<p><a href="https://weekly-vue.news/issues">➡️ More issues</a></p>
+<h2>GitHub Stats</h2>
+<p><img src="https://github-readme-stats.vercel.app/api?username=mokkapps&amp;show_icons=true" alt="GitHub Stats"></p>
+  <a href="https://www.buymeacoffee.com/mokkapps" target="_blank" rel="noreferrer nofollow">
+      <img src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" height="40" width="170" >
+    </a>
