@@ -3,10 +3,10 @@
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 
 <p><em>
-Software Engineering Undergraduate at <a href="https://uom.lk">University of Moratuwa</a> 
+IT Undergraduate at <a href="https://uom.lk">University of Moratuwa</a> 
 <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"><br>
 
-Intern Software Engineer 
+Software Engineer 
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 </em></p>
 
@@ -17,25 +17,28 @@ Intern Software Engineer
 
 ```javascript
 const ruchith = {
-  pronouns: "he" | "him",
-  code: ["Java", "JavaScript", "TypeScript", "Python", "HTML", "CSS"],
-  tools: ["Spring Boot", "React", "Next.js", "Angular", "Docker", "Prisma", "Tailwind CSS"],
-  architecture: ["microservices", "REST APIs", "event-driven systems"],
-  
-  education: "Software Engineering Undergraduate - University of Moratuwa",
-  
-  interests: [
-    "Building scalable applications",
-    "Exploring new technologies",
-    "Software architecture",
-    "Backend & full-stack development"
-  ],
-
+  pronouns: "he/him",
+  education: {
+    degree: "B.Sc. (Hons) in Information Technology",
+    university: "University of Moratuwa",
+  },
+  code: ["Java","TypeScript","JavaScript","Python","C","C++"],
+  tools: {
+    frameworks: ["Spring Boot","React.js","Next.js","Angular","Node.js","Express.js"],
+    databases: ["PostgreSQL","MySQL","MongoDB"],
+    devOps: ["Docker","AWS","Terraform","Ansible","Jenkins","GitHub Actions","Vercel"]
+    architecture: ["Microservices","REST APIs","Event-driven systems","CI/CD pipelines"]
+  },
   projects: [
-    "Enterprise Online Shopping Platform (Microservices)",
-    "CareerGPT",
-    "IEEE Student Branch UOM Website"
-  ],
-
-  challenge: "Continuously improving my skills and learning modern technologies"
+          "EventNow – Event Management Platform",
+          "CareerGPT – Career Guidance Platform",
+          "RiseUp Mora – Mock Interview Platform",
+          "Freshmart – Microservices E-commerce Platform"],
+  interests: [
+    "Software Architecture",
+    "Scalable Systems",
+    "Backend Engineering",
+    "Full-Stack Development",
+    "Cloud & DevOps"
+  ]
 }
